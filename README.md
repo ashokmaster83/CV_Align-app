@@ -8,7 +8,7 @@ cd CV_align
     <h3>AI-Powered Resume & Job Hunting Platform</h3>
     <p><em>Smarter hiring, fairer opportunities.</em></p>
     <a href="https://drive.google.com/file/d/1Ch4hcZrrRDFnnnrnmW9cDGN8hrMej75e/view?usp=sharing" target="_blank">
-        <img src="C:\Users\Ashok\My_Intern\CVALIGN\CV_Align\Frontend\public\preview.gif" alt="CVAlign Demo" width="600" />
+        <img src="![Image](https://github.com/user-attachments/assets/ab84da03-5e2f-45a3-a91c-385a047dd68b)" alt="CVAlign Demo" width="600" />
     </a>
     <br/>
     <a href="https://drive.google.com/file/d/1Ch4hcZrrRDFnnnrnmW9cDGN8hrMej75e/view?usp=sharing" target="_blank"><b>▶ Watch Demo Video</b></a>
